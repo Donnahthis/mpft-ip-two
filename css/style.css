@@ -124,7 +124,16 @@ img {
     margin-right: 270px;
 }
 .test-box2 {
-    margin-top: -358px;
-    margin-left: 647px;
-    margin-right: 270px;
+    margin-top: 358px;
+  
+}
+#sh{
+	vertical-align: middle;
+    margin-top: 141px;
+    margin-left: 668px;
+}
+#rh{
+	vertical-align: middle;
+  margin-top: -412px;
+  margin-left: 928px;
 }
