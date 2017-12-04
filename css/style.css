@@ -142,6 +142,21 @@ img {
     width: 540px;
     height: 202px;
     float: left;
-    margin-top: 900px;
+    margin-top: 740px;
     margin-left: -140px;
 }
+#ab{
+	vertical-align: middle;
+}
+#ir{
+	vertical-align: middle;
+}
+#ro{
+	vertical-align: middle;
+}
+body {
+	line-height: 1.88889;
+	color: #555753;
+	margin: 0;
+	padding: 0;
+	}
