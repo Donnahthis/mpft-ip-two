@@ -68,7 +68,7 @@ table {
 }
 .logo {
     text-align: center;
-    margin-top: -501px;
+    margin-top: -225px;
     margin-left: 549px;
 }
 #ha {
@@ -182,4 +182,11 @@ body {
     margin-top: 877px;
     margin-left: -15px;
     background-color: darkorange;
+}
+#where {
+    margin-top: -1px;
+    margin-right: 1337px;
+    width: 184px;
+    margin-left: 50px;
+    font-size: 15px;
 }
