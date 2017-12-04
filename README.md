@@ -1,4 +1,4 @@
-# ANITA'S KICHEN  </br>                                              4/DECEMBER/2017</br>
+# ANITA'S KICHEN  </br>                                              4/DECEMBER/2017
 #### The following project is a sample of Anita's kichen which she aims at making a platform to start her business. Personally, am drawing a frame work for her to start the business. It is such of great idea. Probably she may be impressed and take me out for lunch.                                                                
 #### By **Dona Adhiambo**
 ## <strong>Description</strong>
