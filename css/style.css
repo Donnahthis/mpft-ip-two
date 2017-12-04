@@ -120,16 +120,17 @@ img {
 }
 .test-box1 {
     margin-top: -358px;
-    margin-left: 647px;
-    margin-right: 270px;
+    margin-left: 1047px;
+    margin-right: 370px;
 }
 .test-box2 {
-    margin-top: 358px;
-  
+	margin-top: -430px;
+	margin-right: 1450px;
+
 }
 #sh{
 	vertical-align: middle;
-    margin-top: 141px;
+    margin-top: 191px;
     margin-left: 668px;
 }
 #rh{
