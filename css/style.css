@@ -1,5 +1,4 @@
 #background{
-	/*background-image: url("../assets/backgrounds/landing.jpg");*/
 	height: 374px;
 	width:100%;
 	background-repeat: no-repeat;
@@ -146,12 +145,18 @@ img {
     margin-left: -140px;
 }
 #ab{
+	margin-top: 740px;
+	margin-left: -140px;
 	vertical-align: middle;
 }
 #ir{
+	margin-top: 740px;
+	margin-left: -100px;
 	vertical-align: middle;
 }
 #ro{
+	margin-top: 740px;
+	margin-left: -140px;
 	vertical-align: middle;
 }
 body {
@@ -159,4 +164,8 @@ body {
 	color: #555753;
 	margin: 0;
 	padding: 0;
+	}
+	#hee{
+	 margin-left: 2px;
+	 margin-top: -333px;
 	}
