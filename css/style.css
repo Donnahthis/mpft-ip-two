@@ -149,19 +149,20 @@ img {
 }
 #ab{
 	margin-top: 390px;
-	margin-left: 10px;
+	margin-left: 15px;
 	vertical-align: middle;
 	margin-right: -264px;
 }
 #ir{
-	margin-top: 390px;
-  margin-left: -290px;
+	margin-top: 80px;
+  margin-left: 40px;
   vertical-align: middle;
   margin-right: 442px;
+	margin-bottom: 9px;
 }
 #ro{
 	margin-top: 390px;
-	margin-left: -400px;
+	margin-left: -405px;
 	vertical-align: middle;
 }
 body {
@@ -226,4 +227,21 @@ body {
 }
 #pica{
 	height: 636px;
+}
+
+#key {
+	width: 930px;
+	padding: 0px;
+	border: 6px solid #eee;
+	height: 350PX;
+	float: right;
+	background-color: #fff;
+	vertical-align: middle;
+	margin-right: 750px;
+  margin-top: -220px;
+}
+#kad{
+	margin-top: 50px;
+	margin-left: 705px;
+	vertical-align: middle;
 }
