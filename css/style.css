@@ -105,7 +105,7 @@ img {
 }
 #ki{
   vertical-align: middle;
-	margin-top: 102px;
+	margin-top: 32px;
 	margin-left: 43px;
 }
 #kl{
@@ -118,9 +118,11 @@ img {
  margin-top: -133px;
 }
 .test-box1 {
-    margin-top: -358px;
-    margin-left: 1047px;
-    margin-right: 370px;
+	margin-top: -358px;
+	    margin-left: 637px;
+	    margin-right: 370px;
+	    height: 263px;
+	    width: 578px
 }
 .test-box2 {
 	margin-top: -430px;
