@@ -141,11 +141,11 @@ img {
   margin-left: 255px;
 }
 #fr {
-    width: 540px;
+    width: 500px;
     height: 202px;
     float: left;
-    margin-top: 400px;
-    margin-left: -140px;
+    margin-top: 250px;
+    margin-left: -200px;
 }
 #ab{
 	margin-top: -150px;
@@ -178,10 +178,11 @@ body {
 	 margin-top: -333px;
 	}
 	.test-box3 {
-    margin-top: -240px;
-    margin-right: -525px;
-    margin-left: 203px;
-    text-decoration-color: #fcf8e3;
+    margin-top: 150px;
+    /*margin-right: -800px;
+    margin-left: 23px;*/
+    color: white;
+		font-size: 20px;
 }
 #baci {
     width: 1290px;
