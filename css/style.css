@@ -37,7 +37,7 @@ color: inherit;
 	 .col-lg-6{
 		width: 128%;
 		text-align: left;
-    margin-top: 50px;
+    margin-top: 253px;
 	 }
 	 .container#next{
 	 	height: 374px;
@@ -127,16 +127,18 @@ img {
 .test-box2 {
 	margin-top: -430px;
 	margin-right: 1450px;
+	height: 263px;
+  width: 390px;
 }
 #sh{
 	vertical-align: middle;
-    margin-top: 191px;
-    margin-left: 668px;
+	margin-top: 9px;
+	margin-left: -5px;
 }
 #rh{
 	vertical-align: middle;
-  margin-top: -412px;
-  margin-left: 928px;
+	margin-top: -418px;
+  margin-left: 255px;
 }
 #fr {
     width: 540px;
@@ -203,3 +205,18 @@ body {
     text-align: center;
     vertical-align: middle;
 }
+#dar {
+	width: 521px;
+	padding: 0px;
+	border: 6px solid #eee;
+	height: 419PX;
+	float: right;
+	color: #fff;
+	box-shadow: 10px 10px 10px #ccc;
+	vertical-align: middle;
+	margin-right: 650px;
+}
+.test-box5 {
+	margin-top: 182px;
+  margin-right: 150px;
+  margin-left: 203px;
