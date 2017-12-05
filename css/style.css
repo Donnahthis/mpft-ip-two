@@ -148,21 +148,23 @@ img {
     margin-left: -140px;
 }
 #ab{
-	margin-top: 390px;
-	margin-left: 15px;
+	margin-top: -150px;
+	margin-left: 10px;
 	vertical-align: middle;
 	margin-right: -264px;
 }
 #ir{
 	margin-top: 80px;
-  margin-left: 40px;
+  margin-left: 10px;
   vertical-align: middle;
-  margin-right: 442px;
+  margin-right: 410px;
 	margin-bottom: 9px;
+	width: 260px;
+	height: 225px;
 }
 #ro{
-	margin-top: 390px;
-	margin-left: -405px;
+	margin-top: -150px;
+	margin-left: -420px;
 	vertical-align: middle;
 }
 body {
@@ -241,7 +243,7 @@ body {
   margin-top: -220px;
 }
 #kad{
-	margin-top: 50px;
+	margin-top: -80px;
 	margin-left: 705px;
 	vertical-align: middle;
 }
