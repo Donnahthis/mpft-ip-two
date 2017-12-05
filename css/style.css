@@ -247,3 +247,20 @@ body {
 	margin-left: 705px;
 	vertical-align: middle;
 }
+#footer {
+width: 990px;
+padding: 0px;
+border: 6px solid #eee;
+height: 317PX;
+margin-left: 4px;
+color: #fff;
+box-shadow: 10px 10px 10px #ccc;
+text-align: center;
+vertical-align: middle;
+margin-top: 200px;
+}
+#three{
+	margin-top: 300px;
+	vertical-align: middle;
+	margin-left: -499px;
+}
