@@ -104,14 +104,14 @@ img {
 
 }
 #ki{
-  vertical-align: middle;
-	margin-top: 32px;
-	margin-left: 43px;
+	vertical-align: middle;
+  margin-top: 15px;
+  margin-left: -13px;
 }
 #kl{
 	vertical-align: middle;
     margin-top: 0px;
-    margin-left: 58px;
+    margin-left: -12px;
 }
 .container#waa{
  margin-left: 2px;
@@ -191,4 +191,15 @@ body {
     width: 184px;
     margin-left: 50px;
     font-size: 15px;
+}
+#day {
+    width: 544px;
+    padding: 0px;
+    border: 6px solid #eee;
+    height: 424PX;
+    margin-left: 4px;
+    color: #fff;
+    box-shadow: 10px 10px 10px #ccc;
+    text-align: center;
+    vertical-align: middle;
 }
