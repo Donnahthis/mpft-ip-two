@@ -154,8 +154,8 @@ img {
 	margin-right: -264px;
 }
 #ir{
-	margin-top: 740px;
-  margin-left: -313px;
+	margin-top: 390px;
+  margin-left: -100px;
   vertical-align: middle;
   margin-right: 442px;
 }
@@ -227,3 +227,10 @@ body {
 #pica{
 	height: 636px;
 }
+.row {
+       margin-right: 167px;
+       margin-left: -15px;
+       float: right;
+       margin-top: 15px;
+       margin-bottom: 21px;
+   }
