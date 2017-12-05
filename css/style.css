@@ -260,22 +260,25 @@ vertical-align: middle;
 margin-top: 200px;
 }
 #three{
-	margin-top: 300px;
+	margin-top: 70px;
 	vertical-align: middle;
 	margin-left: -499px;
 }
 #info{
 	margin-top: 9px;
 	vertical-align: middle;
-	margin-left: -190px;
+	margin-left: -170px;
 	color: black;
 	width: 800px;
 	height: auto;
 	font-size: 15px;
 }
 #mation{
-	margin-top: 14px;
+	margin-top: -180px;
 	vertical-align: middle;
-	margin-left: -27px;
+	margin-left: 650px;
 	color: black;
+	height: auto;
+	width: 250px;
+	font-size: 15px;
 }
