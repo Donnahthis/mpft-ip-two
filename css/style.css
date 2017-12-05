@@ -179,15 +179,13 @@ body {
 	}
 	.test-box3 {
     margin-top: 150px;
-    /*margin-right: -800px;
-    margin-left: 23px;*/
     color: white;
 		font-size: 20px;
 }
 #baci {
     width: 1290px;
     height: 276px;
-    margin-top: 877px;
+    margin-top: 2150px;
     margin-left: -15px;
     background-color: darkorange;
 }
@@ -282,4 +280,9 @@ margin-top: 200px;
 	height: auto;
 	width: 250px;
 	font-size: 15px;
+}
+
+#tr {
+    width: 1325px;
+    height: 302px;
 }
