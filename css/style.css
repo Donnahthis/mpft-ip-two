@@ -148,20 +148,20 @@ img {
     margin-left: -140px;
 }
 #ab{
-	margin-top: 740px;
-	margin-left: -140px;
+	margin-top: 390px;
+	margin-left: 10px;
 	vertical-align: middle;
 	margin-right: -264px;
 }
 #ir{
 	margin-top: 390px;
-  margin-left: -100px;
+  margin-left: -290px;
   vertical-align: middle;
   margin-right: 442px;
 }
 #ro{
-	margin-top: 740px;
-	margin-left: -140px;
+	margin-top: 390px;
+	margin-left: -400px;
 	vertical-align: middle;
 }
 body {
@@ -227,10 +227,3 @@ body {
 #pica{
 	height: 636px;
 }
-.row {
-       margin-right: 167px;
-       margin-left: -15px;
-       float: right;
-       margin-top: 15px;
-       margin-bottom: 21px;
-   }
