@@ -250,7 +250,7 @@ body {
 width: 990px;
 padding: 0px;
 border: 6px solid #eee;
-height: 317PX;
+height: 335PX;
 margin-left: 4px;
 color: #fff;
 box-shadow: 10px 10px 10px #ccc;
@@ -259,9 +259,9 @@ vertical-align: middle;
 margin-top: 200px;
 }
 #three{
-	margin-top: 70px;
+	margin-top: 120px;
 	vertical-align: middle;
-	margin-left: -499px;
+	margin-left: -50px;
 }
 #info{
 	margin-top: 9px;
@@ -296,4 +296,12 @@ margin-top: 200px;
 		/*margin-left: -29px;
 		margin-right: 58px;
 		float: inherit;*/
+}
+#theCarousel{
+	margin-top: -70px;
+	vertical-align: middle;
+	margin-left: 20px;
+	background-color: white;
+	height: 50px;
+	width: 420px;
 }
