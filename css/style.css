@@ -22,7 +22,7 @@ color: inherit;
  opacity: 2;
  margin-left: 215px;
  margin-top: -49px;
- margin-bottom: 58px;
+ margin-bottom: 100px;
  min-width: -104px;
  margin-right: 189px;
 }
@@ -82,11 +82,11 @@ table {
 }
 #still{
     vertical-align: middle;
-    margin-left: 4px;
+    margin-left: 50px;
 }
 #ry{
     vertical-align: middle;
-    margin-left: -8px;
+    margin-left: 110px;
 }
 img {
     vertical-align: middle;
@@ -304,4 +304,28 @@ margin-top: 200px;
 	background-color: white;
 	height: 50px;
 	width: 420px;
+}
+.carousel{
+	position: relative;
+}
+#lunch{
+    vertical-align: middle;
+    margin-left: 180px;
+		margin-top: -130px;
+		color: white;
+	font-style: italic;
+}
+#breakfast{
+    vertical-align: middle;
+    margin-left: 110px;
+		margin-top: -130px;
+		color: white;
+	font-style: italic;
+}
+#dinner{
+    vertical-align: middle;
+    margin-left: 230px;
+		margin-top: -130px;
+		color: white;
+	font-style: italic;
 }
